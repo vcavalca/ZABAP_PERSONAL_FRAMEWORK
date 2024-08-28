@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+    <MASTERLANG>P</MASTERLANG>
+    <STEXT>Personal FrameWork Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Table field descriptions not found.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Internal error occurred.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>An error occurred while retrieving field descriptions.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Program error occurred while displaying ALV grid.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>An error occurred while displaying ALV grid.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>The list is empty. No data to display.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Program error occurred while displaying ALV grid.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>An error occurred while displaying ALV grid.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>There are no fields to show.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Error: Internal table is empty. No data to save.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Error: Invalid save location indicator.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Error: Could not open file on the server.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Error: Failed to write data to file on server.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Error: Could not close the file on the server.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>File saved successfully on the server.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>File saved successfully on local machine.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>P</SPRSL>
+     <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Error saving file to local machine.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

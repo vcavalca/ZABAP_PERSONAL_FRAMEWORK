@@ -12,7 +12,7 @@ SELECTION-SCREEN END OF LINE.
 
 SELECTION-SCREEN END OF BLOCK b1.
 
-" Bloco de opções adicionais, que só aparece ao selecionar p_log
+"Additional options block, which only appears when selecting p_log
 SELECTION-SCREEN BEGIN OF BLOCK b2 WITH FRAME TITLE text-004.
 
 SELECTION-SCREEN BEGIN OF LINE.
@@ -22,7 +22,7 @@ SELECTION-SCREEN END OF LINE.
 
 SELECTION-SCREEN END OF BLOCK b2.
 
-" Bloco de opções adicionais, que só aparece ao selecionar p_export
+"Additional options block, which only appears when selecting p_export
 SELECTION-SCREEN BEGIN OF BLOCK b3 WITH FRAME TITLE text-006.
 
 SELECTION-SCREEN BEGIN OF LINE.

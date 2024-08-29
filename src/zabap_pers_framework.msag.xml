@@ -12,103 +12,103 @@
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>000</MSGNR>
-     <TEXT>Table field descriptions not found.</TEXT>
+     <TEXT>Descrições de campo da tabela não encontradas.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>001</MSGNR>
-     <TEXT>Internal error occurred.</TEXT>
+     <TEXT>Ocorreu um erro interno.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>002</MSGNR>
-     <TEXT>An error occurred while retrieving field descriptions.</TEXT>
+     <TEXT>Ocorreu um erro ao recuperar descrições de campo.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>003</MSGNR>
-     <TEXT>Program error occurred while displaying ALV grid.</TEXT>
+     <TEXT>Ocorreu um erro de programa ao exibir o ALV.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>004</MSGNR>
-     <TEXT>An error occurred while displaying ALV grid.</TEXT>
+     <TEXT>Ocorreu um erro ao exibir o ALV.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>005</MSGNR>
-     <TEXT>The list is empty. No data to display.</TEXT>
+     <TEXT>A lista está vazia. Nenhum dado para exibir.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>006</MSGNR>
-     <TEXT>Program error occurred while displaying ALV grid.</TEXT>
+     <TEXT>Ocorreu um erro de programa ao exibir o ALV.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>007</MSGNR>
-     <TEXT>An error occurred while displaying ALV grid.</TEXT>
+     <TEXT>Ocorreu um erro ao exibir o ALV.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>008</MSGNR>
-     <TEXT>There are no fields to show.</TEXT>
+     <TEXT>Não há campos para mostrar.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>009</MSGNR>
-     <TEXT>Error: Internal table is empty. No data to save.</TEXT>
+     <TEXT>Erro: A tabela interna está vazia. Nenhum dado para salvar.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>010</MSGNR>
-     <TEXT>Error: Invalid save location indicator.</TEXT>
+     <TEXT>Erro: Indicador de local de salvamento inválido.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>011</MSGNR>
-     <TEXT>Error: Could not open file on the server.</TEXT>
+     <TEXT>Erro: Não foi possível abrir o arquivo no servidor.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>012</MSGNR>
-     <TEXT>Error: Failed to write data to file on server.</TEXT>
+     <TEXT>Erro: Falha ao gravar dados no arquivo no servidor.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>013</MSGNR>
-     <TEXT>Error: Could not close the file on the server.</TEXT>
+     <TEXT>Erro: Não foi possível fechar o arquivo no servidor.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>014</MSGNR>
-     <TEXT>File saved successfully on the server.</TEXT>
+     <TEXT>O arquivo foi salvo com sucesso no servidor.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>015</MSGNR>
-     <TEXT>File saved successfully on local machine.</TEXT>
+     <TEXT>O arquivo foi salvo com sucesso na máquina local.</TEXT>
     </T100>
     <T100>
      <SPRSL>P</SPRSL>
      <ARBGB>ZABAP_PERS_FRAMEWORK</ARBGB>
      <MSGNR>016</MSGNR>
-     <TEXT>Error saving file to local machine.</TEXT>
+     <TEXT>Erro ao salvar o arquivo na máquina local.</TEXT>
     </T100>
    </T100>
   </asx:values>

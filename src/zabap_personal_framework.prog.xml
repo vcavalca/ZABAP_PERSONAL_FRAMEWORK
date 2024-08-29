@@ -13,67 +13,67 @@
     <item>
      <ID>I</ID>
      <KEY>001</KEY>
-     <ENTRY>Selection Options</ENTRY>
+     <ENTRY>Opções de saida</ENTRY>
      <LENGTH>22</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>002</KEY>
-     <ENTRY>View log</ENTRY>
+     <ENTRY>Exibir Log</ENTRY>
      <LENGTH>18</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>003</KEY>
-     <ENTRY>Export</ENTRY>
+     <ENTRY>Exportar</ENTRY>
      <LENGTH>16</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>004</KEY>
-     <ENTRY>Log Settings</ENTRY>
+     <ENTRY>Configurações de log</ENTRY>
      <LENGTH>25</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>005</KEY>
-     <ENTRY>Empty Field</ENTRY>
+     <ENTRY>Campo vazio</ENTRY>
      <LENGTH>19</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>006</KEY>
-     <ENTRY>Export Settings</ENTRY>
-     <LENGTH>25</LENGTH>
+     <ENTRY>Configurações de exportação</ENTRY>
+     <LENGTH>30</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>007</KEY>
-     <ENTRY>File Name</ENTRY>
+     <ENTRY>Nome do arquivo</ENTRY>
      <LENGTH>19</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>008</KEY>
-     <ENTRY>Header</ENTRY>
+     <ENTRY>Cabeçalho</ENTRY>
      <LENGTH>16</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>009</KEY>
-     <ENTRY>Yes</ENTRY>
+     <ENTRY>Sim</ENTRY>
      <LENGTH>19</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>010</KEY>
-     <ENTRY>No</ENTRY>
+     <ENTRY>Não</ENTRY>
      <LENGTH>12</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>011</KEY>
-     <ENTRY>File Type</ENTRY>
+     <ENTRY>Tipo de arquivo</ENTRY>
      <LENGTH>19</LENGTH>
     </item>
     <item>
@@ -91,13 +91,13 @@
     <item>
      <ID>I</ID>
      <KEY>014</KEY>
-     <ENTRY>Sava In</ENTRY>
+     <ENTRY>Salvar em</ENTRY>
      <LENGTH>17</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>015</KEY>
-     <ENTRY>Server</ENTRY>
+     <ENTRY>Servidor</ENTRY>
      <LENGTH>16</LENGTH>
     </item>
     <item>
@@ -109,25 +109,25 @@
     <item>
      <ID>I</ID>
      <KEY>H01</KEY>
-     <ENTRY>User...........................:</ENTRY>
+     <ENTRY>Usuário...........................:</ENTRY>
      <LENGTH>64</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>H02</KEY>
-     <ENTRY>Date - Time................:</ENTRY>
+     <ENTRY>Data - Hora................:</ENTRY>
      <LENGTH>56</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>H03</KEY>
-     <ENTRY>Number of records......:</ENTRY>
+     <ENTRY>Número de registros......:</ENTRY>
      <LENGTH>48</LENGTH>
     </item>
     <item>
      <ID>I</ID>
      <KEY>H04</KEY>
-     <ENTRY>All rights reserved.</ENTRY>
+     <ENTRY>Todos os direitos reservados.</ENTRY>
      <LENGTH>40</LENGTH>
     </item>
     <item>

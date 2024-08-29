@@ -5,7 +5,6 @@ INCLUDE zabap_personal_framework_scr.
 INCLUDE zabap_personal_framework_f01.
 
 AT SELECTION-SCREEN OUTPUT.
-  " Oculta o bloco b2 se p_log estiver selecionado
   LOOP AT SCREEN.
 
     IF p_log EQ abap_true.
